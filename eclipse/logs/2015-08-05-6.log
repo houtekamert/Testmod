@@ -1,0 +1,20 @@
+[19:48:23] [main/INFO]: Setting user: Player835
+[19:48:26] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:48:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Test Mod 1
+[19:48:44] [Sound Library Loader/INFO]: Sound engine started
+[19:48:47] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:48:47] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:48:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Test Mod 1
+[19:48:48] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:48:48] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:48:49] [Sound Library Loader/INFO]: Sound engine started
+[19:48:58] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:48:58] [Server thread/INFO]: Generating keypair
+[19:48:59] [Server thread/INFO]: Preparing start region for level 0
+[19:49:00] [Server thread/INFO]: Preparing spawn area: 21%
+[19:49:01] [Server thread/INFO]: Player835[local:E:0a5dad79] logged in with entity id 165 at (118.86883868299589, 14.305754628782994, -353.07154521964907)
+[19:49:01] [Server thread/INFO]: Player835 joined the game
+[19:49:06] [Server thread/INFO]: Saving and pausing game...
+[19:49:06] [Server thread/INFO]: Saving chunks for level 'Modtesting'/Overworld
+[19:49:06] [Server thread/INFO]: Saving chunks for level 'Modtesting'/Nether
+[19:49:06] [Server thread/INFO]: Saving chunks for level 'Modtesting'/The End

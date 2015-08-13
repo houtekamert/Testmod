@@ -1,0 +1,29 @@
+#items
+item.testmod1:mapleLeaf.name=Maple Leaf
+item.testmod1:qbsteel.name=Quantum-Bionic Steel
+item.testmod1:corefragment.name=Quantum core Fragment
+item.testmod1:biodust.name=Biodust
+item.testmod1:ebstick.name=Ender Bound Stick
+
+#tools
+item.testmod1:qbsword.name=Quantum-Bionic Sword
+item.testmod1:qbpick.name=Quantum-Bionic Pickaxe
+item.testmod1:qbaxe.name=Quantum-Bionic Axe
+item.testmod1:qbshovel.name=Quantum-Bionic Shovel
+item.testmod1:qbhoe.name=Quantum-Bionic Hoe
+
+#blocks
+tile.testmod1:flag.name=Canadian Flag
+tile.testmod1:qconnector.name=Quantum Core Connector
+tile.testmod1:qcable.name=Quantum Cable
+tile.testmod1:qcore.name=Quantum Core
+tile.testmod1:bioore.name=Unrefined Biodust
+tile.testmod1:qtop.name=Quantum Top Block
+
+#creative tabs
+
+
+#keys
+keys.testmod1.category=Test Mod 1
+keys.testmod1.charge=Charge
+keys.testmod1.release=Release

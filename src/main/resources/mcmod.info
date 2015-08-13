@@ -1,0 +1,19 @@
+[
+{
+"modid": "TestMod1",
+"name": "Test Mod 1",
+"description": "My first test mod for learning how to work with Forge, gradle and Intellij IDEA.",
+"version": "1.7.2-1.0",
+"credits": "Created by houtekamert with help from Pahimar's Lets mod reboot.",
+"logoFile": "",
+"mcversion": "1.7.10",
+"url": "",
+"updateUrl": "",
+"authorlist": ["houtekamert"],
+"parent":"",
+"screenshots": [],
+"dependencies": [
+"mod_MinecraftForge"
+]
+}
+]
