@@ -1,6 +1,31 @@
-[11:27:10] [main/INFO]: Setting user: Player321
-[11:27:12] [Client thread/INFO]: LWJGL Version: 2.9.1
-[11:27:23] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Test Mod 1
-[11:27:25] [Sound Library Loader/INFO]: Sound engine started
-[11:27:26] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[11:27:26] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[13:32:28] [main/INFO]: Setting user: Player451
+[13:32:32] [Client thread/INFO]: LWJGL Version: 2.9.1
+[13:32:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Test Mod 1
+[13:32:55] [Sound Library Loader/INFO]: Sound engine started
+[13:33:00] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[13:33:00] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[13:33:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Test Mod 1
+[13:33:02] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:33:02] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:33:03] [Sound Library Loader/INFO]: Sound engine started
+[13:33:10] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[13:33:10] [Server thread/INFO]: Generating keypair
+[13:33:11] [Server thread/INFO]: Preparing start region for level 0
+[13:33:12] [Server thread/INFO]: Preparing spawn area: 9%
+[13:33:13] [Server thread/INFO]: Preparing spawn area: 93%
+[13:33:15] [Server thread/INFO]: Player451[local:E:40b86e65] logged in with entity id 188 at (107.67724718459267, 7.875, -370.06976907469505)
+[13:33:15] [Server thread/INFO]: Player451 joined the game
+[13:33:42] [Server thread/INFO]: Player451 has just earned the achievement [Taking Inventory]
+[13:33:42] [Client thread/INFO]: [CHAT] Player451 has just earned the achievement [Taking Inventory]
+[13:35:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[13:39:01] [Server thread/INFO]: Saving and pausing game...
+[13:39:01] [Server thread/INFO]: Saving chunks for level 'Modtesting'/Overworld
+[13:39:01] [Server thread/INFO]: Saving chunks for level 'Modtesting'/Nether
+[13:39:01] [Server thread/INFO]: Saving chunks for level 'Modtesting'/The End
+[13:39:02] [Client thread/INFO]: Stopping!
+[13:39:02] [Server thread/INFO]: Stopping server
+[13:39:02] [Server thread/INFO]: Saving players
+[13:39:02] [Server thread/INFO]: Saving worlds
+[13:39:02] [Server thread/INFO]: Saving chunks for level 'Modtesting'/Overworld
+[13:39:02] [Server thread/INFO]: Saving chunks for level 'Modtesting'/Nether
+[13:39:02] [Server thread/INFO]: Saving chunks for level 'Modtesting'/The End
