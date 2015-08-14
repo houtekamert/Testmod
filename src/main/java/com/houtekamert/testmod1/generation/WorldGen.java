@@ -29,6 +29,7 @@ public class WorldGen implements IWorldGenerator
     private void generateSurface(World world, Random random, int x, int z)
     {
         addOreSpawn(ModBlocks.bioore, world, random, x, z, 16, 16, 5/* + random.nextInt(2)*/, 5, 0, 48);
+        addOreSpawn(ModBlocks.belbaite, world, random, x, z, 16, 16, 2 /*+ random.nextInt(2)*/, 5, 0, 25);
     }
 
     private void generateNether(World world, Random random, int x, int z)

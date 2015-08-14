@@ -12,6 +12,7 @@ public class ModBlocks
     public static final BlockTM1 bioore = new BlockBioOre();
     public static final BlockTM1 qtop = new BlockQTop();
     public static final BlockTM1 qconnector = new BlockQConnector();
+    public static final BlockTM1 belbaite = new BlockBlueElbaite();
 
 
     public static void init()
@@ -22,6 +23,7 @@ public class ModBlocks
         GameRegistry.registerBlock(bioore, "bioore");
         GameRegistry.registerBlock(qtop, "qtop");
         GameRegistry.registerBlock(qconnector, "qconnector");
+        GameRegistry.registerBlock(belbaite, "bindicolite");
     }
 
 

@@ -1,6 +1,6 @@
 [
 {
-"modid": "TestMod1",
+"modid": "testmod1",
 "name": "Test Mod 1",
 "description": "My first test mod for learning how to work with Forge, gradle and Intellij IDEA.",
 "version": "1.7.2-1.0",

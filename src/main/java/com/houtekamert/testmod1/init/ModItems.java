@@ -21,6 +21,13 @@ public class ModItems
     public static final ItemTM1 corefragment = new ItemQCoreFrag();
     public static final ItemTM1 biodust = new ItemBioDust();
     public static final ItemTM1 ebstick = new ItemEBStick();
+    public static final ItemTM1 indicolite = new ItemBlueIndicolite();
+
+    //armor
+    public static final ItemArmor qbhelmet = (ItemArmor) new ItemQBArmor(AQBSTEEL, 0, 0).setUnlocalizedName("qbhelmet");
+    public static final ItemArmor qbchestplate = (ItemArmor) new ItemQBArmor(AQBSTEEL, 0, 1).setUnlocalizedName("qbchestplate");
+    public static final ItemArmor qbleggings = (ItemArmor) new ItemQBArmor(AQBSTEEL, 0, 2).setUnlocalizedName("qbleggings");
+    public static final ItemArmor qbboots = (ItemArmor) new ItemQBArmor(AQBSTEEL, 0, 3).setUnlocalizedName("qbboots");
 
     //tools
     public static final ItemQBSword qbsword = new ItemQBSword(QBSTEEL);
@@ -36,6 +43,13 @@ public class ModItems
         GameRegistry.registerItem(corefragment, "corefragment");
         GameRegistry.registerItem(biodust, "biodust");
         GameRegistry.registerItem(ebstick, "ebstick");
+        GameRegistry.registerItem(indicolite, "indicolite");
+
+        //armor
+        GameRegistry.registerItem(qbhelmet, "qbhelmet");
+        GameRegistry.registerItem(qbchestplate, "qbchestpalate");
+        GameRegistry.registerItem(qbleggings, "qbleggings");
+        GameRegistry.registerItem(qbboots, "qbboots");
 
         //tools
         GameRegistry.registerItem(qbsword, "qbsword");

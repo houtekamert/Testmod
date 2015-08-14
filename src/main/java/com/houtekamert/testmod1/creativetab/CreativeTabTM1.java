@@ -48,7 +48,7 @@ public class CreativeTabTM1
 
         public String getTranslatedTabLabel()
         {
-            return "Test Mod Tools";
+            return "Test Mod Tools and Weaponry";
         }
     };
 }

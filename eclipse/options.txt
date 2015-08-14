@@ -87,8 +87,8 @@ key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_keys.testmod1.charge:46
 key_keys.testmod1.release:19
-soundCategory_master:1.0
-soundCategory_music:0.32394367
+soundCategory_master:0.60596025
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
